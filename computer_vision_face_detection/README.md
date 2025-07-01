@@ -1,0 +1,1 @@
+This is app is used to detect faces in pictures.  There are 2 images and 1 .py file included in the folder.  The images can be replaced with any images of your choice.
